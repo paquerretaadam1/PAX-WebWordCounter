@@ -16,7 +16,7 @@ namespace WebWordCounter
             string w = null;
             int n = 0;
 
-            Console.WriteLine("WEB WORD COUNTER\n");
+            Console.WriteLine("AWEB WORD COUNTER\n");
             Console.WriteLine("Programa que cuenta\ncuántas veces aparece\nen una web que se indique\nla palabra que se quiera.\n");
 
             while (true)
