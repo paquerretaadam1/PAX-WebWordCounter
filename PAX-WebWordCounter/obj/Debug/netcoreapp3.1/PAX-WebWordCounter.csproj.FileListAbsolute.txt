@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 C:\Users\IKAXELOFC\Source\Repos\paquerretaadam1\PAX-WebWordCounter\PAX-WebWordCounter\obj\Debug\netcoreapp3.1\PAX-WebWordCounter.csproj.AssemblyReference.cache
 C:\Users\IKAXELOFC\Source\Repos\paquerretaadam1\PAX-WebWordCounter\PAX-WebWordCounter\obj\Debug\netcoreapp3.1\PAX-WebWordCounter.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\IKAXELOFC\Source\Repos\paquerretaadam1\PAX-WebWordCounter\PAX-WebWordCounter\obj\Debug\netcoreapp3.1\PAX-WebWordCounter.AssemblyInfoInputs.cache
 C:\Users\IKAXELOFC\Source\Repos\paquerretaadam1\PAX-WebWordCounter\PAX-WebWordCounter\obj\Debug\netcoreapp3.1\PAX-WebWordCounter.AssemblyInfo.cs
 C:\Users\IKAXELOFC\Source\Repos\paquerretaadam1\PAX-WebWordCounter\PAX-WebWordCounter\obj\Debug\netcoreapp3.1\PAX-WebWordCounter.csproj.CoreCompileInputs.cache
+=======
+D:\DAM2\PSEP\PAX-WebWordCounter\PAX-WebWordCounter\obj\Debug\netcoreapp3.1\PAX-WebWordCounter.csproj.AssemblyReference.cache
+D:\DAM2\PSEP\PAX-WebWordCounter\PAX-WebWordCounter\obj\Debug\netcoreapp3.1\PAX-WebWordCounter.GeneratedMSBuildEditorConfig.editorconfig
+D:\DAM2\PSEP\PAX-WebWordCounter\PAX-WebWordCounter\obj\Debug\netcoreapp3.1\PAX-WebWordCounter.AssemblyInfoInputs.cache
+D:\DAM2\PSEP\PAX-WebWordCounter\PAX-WebWordCounter\obj\Debug\netcoreapp3.1\PAX-WebWordCounter.AssemblyInfo.cs
+D:\DAM2\PSEP\PAX-WebWordCounter\PAX-WebWordCounter\obj\Debug\netcoreapp3.1\PAX-WebWordCounter.csproj.CoreCompileInputs.cache
+>>>>>>> 1b04764378cd7c970942176f83e3a0eb59c24a53
