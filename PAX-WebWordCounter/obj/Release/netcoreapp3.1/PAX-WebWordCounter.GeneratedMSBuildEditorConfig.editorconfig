@@ -1,3 +1,7 @@
 is_global = true
 build_property.RootNamespace = PAX_WebWordCounter
+<<<<<<< HEAD
 build_property.ProjectDir = D:\DAM2\PSEP\PAX-WebWordCounter\PAX-WebWordCounter\
+=======
+build_property.ProjectDir = C:\Users\IKAXELOFC\source\repos\paquerretaadam1\PAX-WebWordCounter\PAX-WebWordCounter\
+>>>>>>> efcc06d87dcfa17094cf0794073b35a73b0f4c59
